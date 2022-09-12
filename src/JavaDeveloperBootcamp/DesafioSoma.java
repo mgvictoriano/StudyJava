@@ -1,5 +1,7 @@
 package JavaDeveloperBootcamp;
 
+import java.util.Scanner;
+
 public class DesafioSoma {
 
     public static void main(String[] args){
